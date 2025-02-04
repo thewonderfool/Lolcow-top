@@ -1,0 +1,7 @@
+baseURL = "https://lolcow.top/"
+languageCode = "en-us"
+title = "Lolcow Top"
+theme = "PaperMod"
+
+[params]
+description = "Your site description here"
