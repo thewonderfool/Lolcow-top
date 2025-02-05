@@ -1,7 +1,57 @@
 baseURL = "https://lolcow.top/"
-languageCode = "en-us"
-title = "Lolcow Top"
-theme = "PaperMod"
+languageCode = "en-US"
+title = "Lolcow Top - Internet Drama News"
+theme = "hugo-ficurinia"
+
+[pagination]
+
+pagerSize = 5
+summaryLength = 100
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
 
 [params]
-description = "Your site description here"
+  author = "TheWonderFool"
+  description = "Tracking the wildest internet drama, meltdowns, and controversies."
+  showRss = true  # Ensure RSS icon appears
+  showTags = true
+  enableSearch = true
+
+  # RSS Feeds to pull content from
+  rssFeeds = [
+    "https://www.reddit.com/r/InternetDrama/new/.rss",
+    "https://www.reddit.com/r/Cringetopia/new/.rss",
+    "https://nitter.net/[username]/with_replies/rss"
+  ]
+
+  # Social Media Links
+  twitter = "https://twitter.com/[your_handle]"
+  mastodon = "https://mastodon.social/@[your_handle]"
+  reddit = "https://www.reddit.com/r/InternetDrama"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # Allow raw HTML in RSS feeds
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 20
+  [[menu.main]]
+    identifier = "rss"
+    name = "RSS"
+    url = "/index.xml"
+    weight = 30
+

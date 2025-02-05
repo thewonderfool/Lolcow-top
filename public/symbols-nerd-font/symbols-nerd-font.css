@@ -1,0 +1,8 @@
+/* symbols-nerd-font */
+@font-face {
+	font-family: Symbols Nerd Font;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Symbols Nerd Font"), local("SymbolsNF"), url(symbols-nerd-font.woff2) format("woff2");
+}
+

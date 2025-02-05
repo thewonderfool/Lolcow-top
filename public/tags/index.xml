@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Tags on Lolcow Top</title>
-    <link>https://lolcow.top/tags/</link>
-    <description>Recent content in Tags on Lolcow Top</description>
-    <generator>Hugo -- 0.143.0</generator>
-    <language>en-us</language>
-    <atom:link href="https://lolcow.top/tags/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss"><channel><title>Tags on Lolcow Top - Internet Drama News</title><link>https://lolcow.top/tags/</link><description>Recent content in Tags on Lolcow Top - Internet Drama News</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Tue, 04 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://lolcow.top/tags/index.xml" rel="self" type="application/rss+xml"/><icon>https://lolcow.top/img/icon.svg</icon><item><title>Drama</title><link>https://lolcow.top/tags/drama/</link><pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate><guid>https://lolcow.top/tags/drama/</guid><description></description></item><item><title>Internet</title><link>https://lolcow.top/tags/internet/</link><pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate><guid>https://lolcow.top/tags/internet/</guid><description></description></item><item><title>Lolcow</title><link>https://lolcow.top/tags/lolcow/</link><pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate><guid>https://lolcow.top/tags/lolcow/</guid><description></description></item></channel></rss>

@@ -1,0 +1,6 @@
+---
+title: "Volleyball coach goes berserk over illegal parking callout"
+date: 2025-02-04
+---
+<table> <tr><td> <a href="https://www.reddit.com/r/internetdrama/comments/1hxokwz/volleyball_coach_goes_berserk_over_illegal/"> <img alt="Volleyball coach goes berserk over illegal parking callout" src="https://external-preview.redd.it/EIvSEPl_H-CU9eX0yby5CGcXMzVE1-dYFieW73tbDls.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8004b2f699090fddd13f5bbb68734aa80380386a" title="Volleyball coach goes berserk over illegal parking callout" /> </a> </td><td> <!-- SC_OFF --><div class="md"><p>Local coach of a volleyball team parked in handicapped unloading zone during a tournament in OKC. Gets called out for it in a bad driving Facebook group and shit hits the fan. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/leviolentfemme"> /u/leviolentfemme </a> <br /> <span><a href="https://www.facebook.com/share/p/19suvPRTt1/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/internetdrama/comments/1hxokwz/volleyball_coach_goes_berserk_over_illegal/">[comments]</a></span> </td></tr></table>
+[Read more](https://www.reddit.com/r/internetdrama/comments/1hxokwz/volleyball_coach_goes_berserk_over_illegal/)
